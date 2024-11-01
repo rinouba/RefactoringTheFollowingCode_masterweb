@@ -32,7 +32,7 @@ This project is intended for learning purposes, and you are encouraged to modify
 
 ## Review Project
 
-For a live demo and project review, [click here](https://your-review-link.com).
+For a live demo and project review, [click here](https://rinouba.github.io/RefactoringTheFollowingCode_masterweb).
 
 ---
 
